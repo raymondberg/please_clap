@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import please_clap
+
+if __name__ == '__main__':
+  please_clap.applause()
